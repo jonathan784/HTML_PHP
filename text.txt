@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+
+  <head>
+
+  <title>About Jonathan Jimenez</title>
+
+  </head>
+
+  <body>
+
+  <h1>About Myself</h1>
+
+  <p>Currently I am a student at the university of Kentucky going on my Senior year. Kentucky has been fun and vary rewarding as a school and creating opportunities. Although COVID-19 has stopped interacting with other students I feel confident that we will return to campus.</p>
+
+<br>
+
+<h2>My Hobbies</h2>
+
+<p>I enjoy playing soccer outside with friends and family. I have been playing soccer since I Would remember and it has become almost second nature. Another hobbit of mine that I enjoy is playing video games.</p>
+
+<h3>Shopping For Equipment</h3>
+
+<br>
+
+<img src="http://159.203.177.224/~jji233/assignment1/football.jpg" alt="football">
+
+<p>one of my favorite sites to buy equipment is <a href=https://www.nike.com>Nike</a>. Nike offers quality equipment that will surly bring any athletes game to the next level. Another website that I recommend is <a href=“https://www.adidas.com/us”>Adidas.com</a>. </p>
+
+<br>
+
+<p>To start playing soccer athletes need the following basics to get started</p>
+
+<ul>
+
+<li>Shoes</li>
+
+<li>Goal</li>
+
+<li>Soccer Ball</li>
+
+</ul> 
+
+<br>
+
+<form>
+
+  <label>First name:<br>
+
+    <input type="text" name="firstname"><br>
+
+  </label>
+
+  <label>Last name:<br>
+
+    <input type="text" name="lastname">
+
+  </label>
+<input type="submit" value="Submit">
+
+</form>
+
+</body>
+
+</html>
